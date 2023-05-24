@@ -1,0 +1,321 @@
+{
+    "language": "English",
+    "@language":{
+    },
+
+    "language1": "Language",
+    "@language1":{
+    },
+
+    "sign": "Sign in to your account",
+    "@sign":{
+    },
+
+    "selectlanguage": "Select Your Language",
+    "@selectlanguage":{
+    },
+
+    "name": "User name",
+    "@name":{
+    },
+
+    "pass": "Password",
+    "@pass":{
+    },
+
+    "forget": "forget your password?",
+    "@forget":{
+    },
+
+    "login": "Login",
+    "@login":{
+    },
+
+    "create": "Create new account",
+    "@create":{
+    },
+
+
+
+    
+
+
+
+
+
+
+"createaccount": "Create account",
+    "@createaccount":{
+    },
+
+"namea": "Name",
+    "@namea":{
+    },
+
+"email": "Email",
+    "@email":{
+    },
+
+"mobile": "Mobile",
+    "@mobile":{
+    },
+
+"socialmedia": "Or create account with social media",
+    "@socialmedia":{
+    },
+
+
+
+
+
+
+    "forgotpassword": "Forgot password",
+    "@forgotpassword":{
+    },
+
+"provideyour": "Provide your accont’s email for which you want t reset paswword",
+    "@provideyour":{
+    },
+
+"next": "Next",
+    "@next":{
+    },
+
+
+    "welcome": "Welcome!",
+    "@welcome":{
+    },
+
+"itisa": "It’s a pleasure to meet you. We are excited that you’re here so let’s get started!",
+    "@itisa":{
+    },
+
+
+
+    "dashboard": "Dashboard",
+    "@dashboard":{
+    },
+
+"active": "01\nACTIVE",
+    "@active":{
+    },
+
+"services": "Services",
+    "@services":{
+    },
+
+"contactus": "Contact us",
+    "@contactus":{
+    },
+
+"aboutus": "About us",
+    "@aboutus":{
+    },
+
+"support": "Support",
+    "@support":{
+    },
+
+
+
+    "profile": "Profile",
+    "@profile":{
+    },
+
+"namerhere": "Namer Here",
+    "@namerhere":{
+    },
+
+"amet": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia.",
+    "@amet":{
+    },
+
+"editmyprofile": "edit my profile",
+    "@editmyprofile":{
+    },
+    
+
+
+    "changepassword": "Change Password",
+    "@changepassword":{
+    },
+
+"logout": "Logout",
+    "@logout":{
+    },
+
+
+
+    "currentpassword": "Current Password",
+    "@currentpassword":{
+    },
+
+"newpassword": "New Password",
+    "@newpassword":{
+    },
+
+"confirmpassword": "Confirm Password",
+    "@confirmpassword":{
+    },
+
+"applychange": "Apply Change",
+    "@applychange":{
+    },
+
+"cancel": "Cancel",
+    "@cancel":{
+    },
+
+
+
+    "changename": "Change Name",
+    "@changename":{
+    },
+
+"gender": "Gender",
+    "@gender":{
+    },
+
+"male": "Male",
+    "@male":{
+    },
+
+"female": "Female",
+    "@female":{
+    },
+
+"country": "Country",
+    "@country":{
+    },
+
+"savechange": "Save Change",
+    "@savechange":{
+    },
+    
+    "editpro": "Eidt Profile",
+    "@editpro":{
+    },
+
+
+
+
+    "ourservices": "Our Services",
+    "@ourservices":{
+    },
+
+"pleaseselect": "Please select your service",
+    "@pleaseselect":{
+    },
+
+"facilitiesrequest": "Facilities Request",
+    "@facilitiesrequest":{
+    },
+
+"feasibilitystudy": "Feasibility Study",
+    "@feasibilitystudy":{
+    },
+
+"iso": "ISO",
+    "@iso":{
+    },
+
+"consultation": "Consultation",
+    "@consultation":{
+    },
+
+"industrialcertificates": "Industrial Certificates",
+    "@industrialcertificates":{
+    },
+
+
+
+    "lipsome": "Lorem ipsum dolor sit amet consectetur adipiscing elit Elementum et venenatis et phasellus urna eget volutpat scelerisque Morbi mauris faucibus vestibulum diam eleifend cursus ac commodo Ultrices nisl sed massa massa in iaculis quisque iaculis tellus Tellus lacus non convallis et maecenas eget arcu.",
+    "@lipsome":{
+    },
+
+
+    "street": "street num#37\ncity,Pakistan",
+    "@street":{
+    },
+
+"message": "Message",
+    "@message":{
+    },
+
+"sendmessage": "Send message",
+    "@sendmessage":{
+    },
+
+
+    "complaints": "COMPLAINTS",
+    "@complaints":{
+    },
+
+"dear": "Dear Sir/Mam",
+    "@dear":{
+    },
+
+"lorem": "Lorem ipsum dolor sit amet,",
+    "@lorem":{
+    },
+"mattis": "consectetur adipiscing elit. mattis ",
+    "@mattis":{
+    },
+
+"status": "STATUS",
+    "@status":{
+    },
+
+"granted": "  Closed-Relief Granted  ",
+    "@granted":{
+    },
+"ungranted": "  Closed-Relief cannot be Granted  ",
+    "@ungranted":{
+    },
+
+"seedetails": "See Details",
+    "@seedetails":{
+    },
+
+    "complaintshist": "Complaints History",
+    "@complaintshist":{
+    },
+
+
+
+    "fathername": "Father Name",
+    "@fathername":{
+    },
+
+"passport": "Iqama/Passport",
+    "@passport":{
+    },
+"phonenumber": "Phone Number",
+    "@phonenumber":{
+    },
+
+"uploud1": "Upload Document 1",
+    "@uploud1":{
+    },
+
+"uploud2": "Upload Document 2",
+    "@uploud2":{
+    },
+"submit": "Submimt",
+    "@submit":{
+    },
+
+
+
+    
+
+    "hello": "Hello{username}",
+    "@hello": {
+      "description": "A welcome message",
+      "placeholders": {
+         "username": {
+           "type": "String"
+         }
+      }
+    }
+}

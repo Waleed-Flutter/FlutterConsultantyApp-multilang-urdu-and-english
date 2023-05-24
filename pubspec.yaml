@@ -1,0 +1,47 @@
+name: localization_arb_example
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.11.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  intl:
+
+  cupertino_icons: ^1.0.0
+  # state management
+  provider:
+  dropdown_button2: ^1.7.1
+  http:
+  url_launcher: ^5.4.11
+  image_picker:
+  cached_network_image:
+  shared_preferences:
+  toast: ^0.3.0
+  dio: ^4.0.6
+  dio_cookie_manager: ^2.0.0
+  cookie_jar: ^3.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons:
+
+flutter_icons:
+   android: true
+   image_path: "assets/images/111.png"    
+
+flutter:
+  generate: true
+
+  uses-material-design: true
+  
+  assets:
+    - assets/images/
+  fonts:
+    - family: Tajawal
+      fonts:
+        - asset: assets/fonts/Tajawal-Medium.ttf  
